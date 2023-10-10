@@ -5,11 +5,11 @@ Este repositório contém um projeto de estudo para criar uma API utilizando o f
 
 # Recursos Destacados:
 
--Implementação de endpoints RESTful para manipulação de recursos.
--Autenticação de usuários por meio de tokens JWT para proteger rotas sensíveis.
--Validação de dados de entrada usando middleware Express.
--Integração com o banco de dados MongoDB em nuvem na AWS utilizando o serviço MongoDB Cloud.
--Exemplos práticos de como criar, ler, atualizar e excluir recursos.
+- Implementação de endpoints RESTful para manipulação de recursos.<br>
+- Autenticação de usuários por meio de tokens JWT para proteger rotas sensíveis.<br>
+- Validação de dados de entrada usando middleware Express.<br>
+- Integração com o banco de dados MongoDB em nuvem na AWS utilizando o serviço MongoDB Cloud.<br>
+- Exemplos práticos de como criar, ler, atualizar e excluir recursos.<br>
 
 # Como Usar:
 
