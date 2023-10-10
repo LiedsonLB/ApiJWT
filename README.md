@@ -13,10 +13,10 @@ Este repositório contém um projeto de estudo para criar uma API utilizando o f
 
 # Como Usar:
 
-1 - Clone o repositório em sua máquina local.
-2 - Instale as dependências usando npm install.
-3 - Configure suas variáveis de ambiente no arquivo .env.
-4 - Inicie o servidor Node.js com npm start.
+1 - Clone o repositório em sua máquina local.<br>
+2 - Instale as dependências usando npm install.<br>
+3 - Configure suas variáveis de ambiente no arquivo .env.<br>
+4 - Inicie o servidor Node.js com npm start.<br>
 Explore os diferentes endpoints da API utilizando ferramentas como Postman ou cURL.
 
 Este projeto serve como um guia prático para iniciantes interessados em aprender a criar APIs com Express e implementar autenticação JWT em seus aplicativos. Sinta-se à vontade para contribuir, fazer melhorias ou usá-lo como referência para seus próprios projetos.
